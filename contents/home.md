@@ -1,16 +1,22 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![yunfanjiang71](https://img.shields.io/badge/yunfanjiang71-github-blue?logo=github)](https://github.com/yunfanjiang71)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+- A new grad Software Engineer from Columbia and Emory
+- A big fan of mystery novels, I love Ellery Queen :)
+- Badminton 🏸 player
+- An incoming Noogler
 
+&nbsp;
 #### Email
-sli[at]cumt.edu.cn
+yj2737@columbia.edu
 
+&nbsp;
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S. Computer Science, Columbia University, 2022—2024.\
+B.S. Highest Honor Degree, Computer Science and Math, Emory University, 2018—2022.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+&nbsp;
+#### Tech Interests
+full stack web/mobile app dev, applied LLM.
 
